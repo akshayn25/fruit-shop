@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Apple",
+        "price": 50,
+        "image": { "fields": { "file": { "url": "./images/apple.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Bananas",
+        "price": 20,
+        "image": { "fields": { "file": { "url": "./images/bananas.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Black Grapes",
+        "price": 40,
+        "image": { "fields": { "file": { "url": "./images/blackgrapes.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Green Grapes",
+        "price": 30,
+        "image": { "fields": { "file": { "url": "./images/greengrapes.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "guava",
+        "price": 20,
+        "image": { "fields": { "file": { "url": "./images/guava.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Jack Fruit",
+        "price": 60,
+        "image": { "fields": { "file": { "url": "./images/jackfruit.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Mango",
+        "price": 55,
+        "image": { "fields": { "file": { "url": "./images/mango.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Orange",
+        "price": 45,
+        "image": { "fields": { "file": { "url": "./images/orange.png" } } }
+      }
+    },
+    {
+      "sys": {
+        "id": "9"
+      },
+      "fields": {
+        "title": "Papaya",
+        "price": 35,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/papaya.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "10"
+      },
+      "fields": {
+        "title": "Pears",
+        "price": 70,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/pears.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "11"
+      },
+      "fields": {
+        "title": "Pomogranates",
+        "price": 80,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/pomegranate.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "12"
+      },
+      "fields": {
+        "title": "Strawberry",
+        "price": 90,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/strawberry.png"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
